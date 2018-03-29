@@ -11,4 +11,5 @@ objects is computed, its k-nearest neighbors are identified, and the class label
 neighbors are then used to determine the class label of the object
 
 to get the best k value there is plot accuracy vs k:
+
 ![alt text](download.png)
