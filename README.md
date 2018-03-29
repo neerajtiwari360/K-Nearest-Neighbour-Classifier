@@ -10,6 +10,10 @@ nearest neighbors. To classify an unlabeled object, the distance of this object 
 objects is computed, its k-nearest neighbors are identified, and the class labels of these nearest
 neighbors are then used to determine the class label of the object
 
+the dataset file is:
+![alt text](fruit_data_with_colors.txt)
+
+
 to get the best k value there is plot accuracy vs k:
 
 ![alt text](download.png)
